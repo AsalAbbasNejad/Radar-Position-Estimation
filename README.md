@@ -60,7 +60,7 @@ This project presents the MATLAB implementation for Radar Imaging, including sig
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Open MATLAB (R2021b or newer recommended).
 2. Run each script separately:
